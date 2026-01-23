@@ -20,7 +20,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 ## 🛠️ Tech Stack & Environment
 - **Language:** Java (JDK 17+)
 - **Editor:** VS Code
-- **Version Control:** Git & Github
+- **Version Control:** Git & Git
 
 ## 📈 Goals
 - Solve 500+ problems across various data structures.
