@@ -15,7 +15,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | # | Problem Title | Solution | Difficulty | Key Topics |
 |---|---------------|----------|------------|------------|
 | 1 | Two Sum | [Solution](./TwoSum.java) | Easy | Arrays, Hash Map |
-| 2 | Palindrome Number | [Solution](./PalindromeNumber.java) | Easy | Math, Logi
+| 2 | Palindrome Number | [Solution](./PalindromeNumber.java) | Easy | Math, Logic
 | 704| Binary search| [Solution](./binarysearch.java) | Easy
 
 ## 🛠️ Tech Stack & Environment
