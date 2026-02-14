@@ -29,7 +29,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 - Master Dynamic Programming and Graph algorithms.
 
 ---
-*“Coding is a journey of continuous learning and persistent problem solving.”*
+*“Coding is a journey of continuous learning and persistent problem solving.”
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
