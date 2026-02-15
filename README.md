@@ -134,4 +134,8 @@ Welcome to my competitive programming journey! This repository is a curated coll
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
