@@ -146,4 +146,5 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | [1158-market-analysis-i](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1174-immediate-food-delivery-ii) |
+| [1179-reformat-department-table](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1179-reformat-department-table) |
 <!---LeetCode Topics End-->
