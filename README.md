@@ -151,4 +151,5 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | [1204-last-person-to-fit-in-the-bus](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
