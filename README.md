@@ -141,4 +141,5 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | [0262-trips-and-users](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0262-trips-and-users) |
 | [0601-human-traffic-of-stadium](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0601-human-traffic-of-stadium) |
 | [0620-not-boring-movies](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0620-not-boring-movies) |
+| [1068-product-sales-analysis-i](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
