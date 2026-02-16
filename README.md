@@ -112,6 +112,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
@@ -134,6 +135,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0190-reverse-bits) |
 ## Database
 |  |
 | ------- |
