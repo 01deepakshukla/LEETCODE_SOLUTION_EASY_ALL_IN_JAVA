@@ -48,6 +48,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0067-add-binary) |
+| [0761-special-binary-string](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0761-special-binary-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3714-longest-balanced-substring-ii) |
@@ -81,6 +82,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 ## Sorting
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0761-special-binary-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Enumeration
@@ -113,6 +115,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
