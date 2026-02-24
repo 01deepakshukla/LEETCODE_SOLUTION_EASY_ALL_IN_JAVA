@@ -105,14 +105,17 @@ Welcome to my competitive programming journey! This repository is a curated coll
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
