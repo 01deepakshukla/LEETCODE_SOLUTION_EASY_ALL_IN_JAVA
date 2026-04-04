@@ -1,31 +1,40 @@
+import java.util.*;
+
 class Solution {
     public String decodeCiphertext(String encodedText, int rows) {
-        if (rows == 0) return "";
-
         int n = encodedText.length();
         if (n == 0) return "";
 
         int cols = n / rows;
+        StringBuilder ans = new StringBuilder();
+        Map<Integer, List<Character>> map = new TreeMap<>();
 
-        StringBuilder result = new StringBuilder();
+        for (int row = 0; row < rows; row++) {
+            for (int col = 0; col < cols; col++) {
 
-        // Direct diagonal traversal
-        for (int startCol = 0; startCol < cols; startCol++) {
-            int i = 0, j = startCol;
+                // Only take valid diagonal cells
+                if (col >= row) {
+                    int key = col - row;
 
-            while (i < rows && j < cols) {
-                result.append(encodedText.charAt(i * cols + j));
-                i++;
-                j++;
+                    map.putIfAbsent(key, new ArrayList<>());
+                    map.get(key).add(encodedText.charAt(row * cols + col));
+                }
+            }
+        }
+
+        // Build result from diagonals
+        for (List<Character> list : map.values()) {
+            for (char ch : list) {
+                ans.append(ch);
             }
         }
 
         // Remove trailing spaces
-        int end = result.length() - 1;
-        while (end >= 0 && result.charAt(end) == ' ') {
-            end--;
+        while (ans.length() > 0 && ans.charAt(ans.length() - 1) == ' ') {
+            ans.deleteCharAt(ans.length() - 1);
         }
 
-        return result.substring(0, end + 1);
+        return ans.toString();
     }
 }
+
