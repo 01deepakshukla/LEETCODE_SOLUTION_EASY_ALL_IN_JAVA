@@ -37,6 +37,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0704-binary-search) |
@@ -145,6 +146,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | ------- |
 | [0001-two-sum](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0874-walking-robot-simulation](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1980-find-unique-binary-string) |
@@ -364,6 +366,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2573-find-the-string-with-lcp) |
