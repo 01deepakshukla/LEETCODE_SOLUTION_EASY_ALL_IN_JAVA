@@ -37,6 +37,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0189-rotate-array) |
@@ -284,6 +285,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0396-rotate-function) |
@@ -353,6 +355,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
