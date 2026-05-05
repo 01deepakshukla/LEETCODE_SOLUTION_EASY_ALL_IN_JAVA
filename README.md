@@ -414,6 +414,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0189-rotate-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -439,4 +440,5 @@ Welcome to my competitive programming journey! This repository is a curated coll
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
