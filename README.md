@@ -560,6 +560,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0061-rotate-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Number Theory
 |  |
