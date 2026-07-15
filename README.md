@@ -429,6 +429,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -610,6 +611,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Indexed Tree
 |  |
 | ------- |
