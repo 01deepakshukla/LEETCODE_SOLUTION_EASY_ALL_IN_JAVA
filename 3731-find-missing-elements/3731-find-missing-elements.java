@@ -1,0 +1,32 @@
+import java.util.*;
+
+class Solution {
+    public List<Integer> findMissingElements(int[] nums) {
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+        Set<Integer> set = new HashSet<>();
+        
+    
+        for (int num : nums) {
+            set.add(num);
+            if (num < min) min = num;
+            if (num > max) max = num;
+        }
+        
+        List<Integer> result = new ArrayList<>();
+        for (int i = min; i <= max; i++) {
+            if (!set.contains(i)) {
+                result.add(i);
+            }
+        }
+        return result;
+    }
+
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        int[] nums = {1, 4, 2, 5};
+        System.out.println(sol.findMissingElements(nums));
+    }
+}
+
+                                                   
