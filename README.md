@@ -90,6 +90,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | [2029-stone-game-ix](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -611,6 +612,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | [1927-sum-game](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2573-find-the-string-with-lcp) |
