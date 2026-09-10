@@ -435,6 +435,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -444,6 +445,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3310-remove-methods-from-project) |
@@ -452,6 +454,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |
 | ------- |
