@@ -67,6 +67,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1563-stone-game-v) |
@@ -238,6 +239,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -300,6 +302,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | [1345-jump-game-iv](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2615-sum-of-distances) |
@@ -341,6 +344,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | [0240-search-a-2d-matrix-ii](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -437,6 +441,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1871-jump-game-vii](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
