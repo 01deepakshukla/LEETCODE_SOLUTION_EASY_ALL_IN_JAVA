@@ -211,6 +211,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | [3903-smallest-stable-index-i](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String
 |  |
 | ------- |
@@ -349,6 +350,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | [3742-maximum-path-score-in-a-grid](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -841,6 +843,7 @@ Welcome to my competitive programming journey! This repository is a curated coll
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/01deepakshukla/LEETCODE_SOLUTION_EASY_ALL_IN_JAVA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
